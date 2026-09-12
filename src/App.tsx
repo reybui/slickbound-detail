@@ -1315,7 +1315,7 @@ const contactLabel: CSSProperties = {
   minWidth: 96,
 };
 
-const EMAIL = "hello@slickbound.co.nz";
+const EMAIL = "slickbound01@gmail.com";
 const GMAIL_COMPOSE = "https://mail.google.com/mail/?view=cm&fs=1&to=" + EMAIL;
 
 function GetInTouch() {
@@ -1473,10 +1473,10 @@ function Footer() {
             </a>
             <br />
             <a
-              href="mailto:hello@slickbound.co.nz"
+              href="mailto:slickbound01@gmail.com"
               style={{ color: "#8c95a3" }}
             >
-              hello@slickbound.co.nz
+              slickbound01@gmail.com
             </a>
           </div>
         </div>
