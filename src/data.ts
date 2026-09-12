@@ -139,7 +139,8 @@ export const servicePackages: ServicePackage[] = [
   },
   {
     name: "Basic Clean",
-    tagline: "Affordable maintenance clean to keep your vehicle fresh and tidy.",
+    tagline:
+      "Affordable maintenance clean to keep your vehicle fresh and tidy.",
     carPrice: "$60",
     suvPrice: "$80",
     exterior: [
@@ -191,19 +192,19 @@ export const testimonials: Testimonial[] = [
   {
     quote:
       "Picked it up looking better than the day I bought it. Booked the next one before I left.",
-    name: "Marcus T.",
+    name: "Reynhard B.",
     role: "Full detail + polish",
   },
   {
     quote:
       "They came to the house, worked out of the van, and the interior looks brand new.",
-    name: "Priya S.",
+    name: "Matthew G.",
     role: "Interior deep clean",
   },
   {
     quote:
       "Six months on and the paint still beads. Worth every dollar of the polish add-on.",
-    name: "Dan W.",
+    name: "Ruan B.",
     role: "Full detail + polish",
   },
 ];
